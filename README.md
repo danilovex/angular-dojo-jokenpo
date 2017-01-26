@@ -23,3 +23,4 @@ bower install
 npm install
 
 karma start
+
