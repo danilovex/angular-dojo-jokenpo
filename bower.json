@@ -1,0 +1,31 @@
+{
+  "name": "DojoAngular",
+  "authors": [
+    "Danilo Ramalho <danilo.ramalho@geoambiente.com.br>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "jquery": "^2.2.3",
+    "oclazyload": "ocLazyLoad#^1.0.9",
+    "angular-ui-router": "^0.2.18",
+    "angular-sanitize": "^1.5.5"
+  },
+  "resolutions": {
+    "angular": "~1.5"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.5.8"
+  }
+}
